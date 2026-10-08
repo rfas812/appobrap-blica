@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+feed_paginas/
+resultados/
+*.atom
+*.xlsx
+*.csv
+*.resumen.json
+.env
+.env.*
+.DS_Store
+Thumbs.db
